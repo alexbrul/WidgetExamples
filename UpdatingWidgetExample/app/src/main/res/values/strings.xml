@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tekstklokke widget</string>
+    <string name="appwidget_text">/res/val/stringsxml</string>
+    <string name="add_widget">Add widget</string>
+</resources>
